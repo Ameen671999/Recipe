@@ -29,4 +29,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 "# Recipe" 
 
 ## Demo
-Hosted in firebase https://ng-recipe-132f1.web.app/
+Deployed in firebase https://ng-recipe-132f1.web.app/
